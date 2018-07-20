@@ -19,5 +19,22 @@ Empat besar terlibat balapan untuk menjadi sistem operasi kehidupan kita. Hadiah
 
 ---
 ## Lalu Bagaimana memahami ke empat besar ini ?
+@ol
+- Paruh Pertama
+- paruh kedua 
 
+---
+## Amazon Adalah ?  
+### TOKO
+
+### Pendapatan Amazon 
+- Pendapatan	       US$ 48,07 miliar (2011)
+- Pendapatan operasi     US$ 862 miliar (2011)
+- Pendapatan bersih      US$ 631 miliar (2011)
+- Total aset	       US$ 25,27 miliar (2011)
+- Total ekuitas	       US$ 7,75 miliar (2011)
+
+---
+
+# Sekian Terimakasih
 
