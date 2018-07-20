@@ -15,7 +15,7 @@
 - Facebook dengan Google 
 
 ---
-Empat besar terlibat balapan untuk menjadi sistem operasi kehidupan kita. Hadiahnya ? Valuasi triliunan dolar, serta kekuasaan dan pengaruh yang lebih besar daripada entitas apapun dalam sejarah.
+Empat besar terlibat balapan untuk menjadi sistem operasi kehidupan kita. Hadiahnya ? triliunan dolar, serta kekuasaan dan pengaruh yang lebih besar daripada entitas apapun dalam sejarah.
 
 ---
 ## Lalu Bagaimana memahami ke empat besar ini ?
@@ -27,7 +27,7 @@ Empat besar terlibat balapan untuk menjadi sistem operasi kehidupan kita. Hadiah
 ## Amazon Adalah ?  
 @ol
 - TOKO
-
+ 
 - Pendapatan Amazon 
 
 - Pendapatan	       US$ 48,07 miliar (2011)
