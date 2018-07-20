@@ -16,9 +16,8 @@
 
 ---
 Empat besar terlibat balapan untuk menjadi sistem operasi kehidupan kita. Hadiahnya ? Valuasi triliunan dolar, serta kekuasaan dan pengaruh yang lebih besar daripada entitas apapun dalam sejarah.
-@ol
-- Lalu Bagaimana memahami ke empat besar ini ?
 
 ---
+## Lalu Bagaimana memahami ke empat besar ini ?
 
 
