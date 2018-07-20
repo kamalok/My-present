@@ -5,3 +5,5 @@
 ---
 # Menurut Alexa (Scott Galloway)
 
+![flux explained](https://raw.githubusercontent.com/kamalok/My-present/master/1_cLSMuA3zGWhC5IFN5Y4erQ.png)
+
