@@ -25,9 +25,11 @@ Empat besar terlibat balapan untuk menjadi sistem operasi kehidupan kita. Hadiah
 
 ---
 ## Amazon Adalah ?  
-### TOKO
+@ol
+- TOKO
 
-### Pendapatan Amazon 
+- Pendapatan Amazon 
+
 - Pendapatan	       US$ 48,07 miliar (2011)
 - Pendapatan operasi     US$ 862 miliar (2011)
 - Pendapatan bersih      US$ 631 miliar (2011)
