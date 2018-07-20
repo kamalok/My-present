@@ -10,9 +10,7 @@
 ---
 ## Empat besar memiliki Keamanan Dalam Kebencian
 @ol
-- Google menandakan akhir merek
-- Apple dengan Amazon
-- Facebook dengan Google 
+ 
 
 ---
 Empat besar terlibat balapan untuk menjadi sistem operasi kehidupan kita. Hadiahnya ? triliunan dolar, serta kekuasaan dan pengaruh yang lebih besar daripada entitas apapun dalam sejarah.
