@@ -8,8 +8,9 @@
 ![flux explained](https://raw.githubusercontent.com/kamalok/My-present/master/1_cLSMuA3zGWhC5IFN5Y4erQ.png)
 
 ---
-## Empat besar memiliki Keamanan Dalam Kebencian
-@ol
+### Empat besar memiliki Keamanan Dalam Kebencian
+
+![flux explained](https://raw.githubusercontent.com/kamalok/My-present/master/ilustrasi-kenalan-di-facebook.jpg)
  
 
 ---
