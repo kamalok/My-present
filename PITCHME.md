@@ -1,5 +1,5 @@
 # My Present
 
-## The Four 
-## Scott Galloway
+-  The Four 
+-  Scott Galloway
 ---
